@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image:linear-gradient(to right,yellow,white,yellow);
+    
+}
+
+form {
+    margin: 0 auto;
+    width: 300px;
+    text-align: left;
+}
+.gender{
+text-align="center";
+font-size:15px;
+}
+
+
+ input, textarea {
+    display: block;
+    margin: 10px 0;
+width:200px;
+padding:10px;
+    border:1px solid black;
+}
+
+input[type="submit"] {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
